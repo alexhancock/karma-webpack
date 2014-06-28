@@ -3,6 +3,10 @@
 	"version": "1.2.1",
 	"author": "Tobias Koppers @sokra",
 	"description": "Use webpack with karma",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/webpack/karma-webpack.git"
+	},
 	"peerDependencies": {
 		"webpack": "^1.2.0-beta5",
 		"webpack-dev-server": "1.x",
